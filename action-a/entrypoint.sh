@@ -1,3 +1,3 @@
 #!/bin/sh -l
 
-sh -c "$INPUT_MY_NAME$ learnt something!"
+sh -c "echo $INPUT_MY_NAME$ learnt something!"
